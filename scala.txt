@@ -8,6 +8,7 @@ println("Value of text is: " + text);
 }
 }
 
+-----------------------------------------------------------------------------------------------------
 
 /**Scala program to find a number is positive, negative or positive.*/
 object ExCheckNumber {
@@ -25,7 +26,7 @@ println("number is negative");
 }
 }
 }
-
+------------------------------------------------------------------------------------------
 /*Scala program to print your name*/
 object ExPrintName {
 
@@ -34,7 +35,7 @@ println("My name is Mike!")
 }
 }
 
-
+--------------------------------------------------------------------------------------
 /**Scala Program to find largest number among two numbers.*/
 object ExFindLargest {
 def main(args: Array[String]) {
